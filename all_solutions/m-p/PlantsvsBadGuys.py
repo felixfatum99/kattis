@@ -1,0 +1,4 @@
+n = int(input())
+p = [int(x) for x in input().split(" ")]
+p.sort()
+print(p[0]+1)

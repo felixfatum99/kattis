@@ -1,0 +1,5 @@
+a,b = map(int, input().split())
+mon = set([x for x in input().split()])
+tue = set([x for x in input().split()])
+print(" ".join(mon.difference(tue)))
+print(" ".join(tue.difference(mon)))

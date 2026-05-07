@@ -1,0 +1,53 @@
+Gorm  
+Harald 1. Blåtand 
+Svend 1. Tveskæg 
+Harald 2. 
+Knud 1. den Store 
+Hardeknud  
+Magnus  den Gode 
+Svend 2. Estridsen 
+Harald 3. Hen 
+Knud 2. den Hellige 
+Oluf 1. Hunger 
+Erik 1. Ejegod 
+Niels  
+Erik 2. Emune 
+Erik 3. Lam 
+Svend 3. Grathe 
+Knud 3. 
+Valdemar 1. den Store 
+Knud 4. 
+Valdemar 2. Sejr 
+Erik 4. Plovpenning 
+Abel  
+Christoffer 1. 
+Erik 5. Klipping 
+Erik 6. Menved 
+Christoffer 2. 
+Valdemar 3. 
+Valdemar 4. Atterdag 
+Oluf 2. 
+Margrethe 1. 
+Erik 7. af Pommern 
+Christoffer 3. af Bayern 
+Christian 1. 
+Hans  
+Christian 2. 
+Frederik 1. 
+Christian 3. 
+Frederik 2. 
+Christian 4. 
+Frederik 3. 
+Christian 5. 
+Frederik 4. 
+Christian 6. 
+Frederik 5. 
+Christian 7. 
+Frederik 6. 
+Christian 8. 
+Frederik 7. 
+Christian 9. 
+Frederik 8. 
+Christian 10. 
+Frederik 9. 
+Margrethe 2.
